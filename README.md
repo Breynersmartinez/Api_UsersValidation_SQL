@@ -10,3 +10,8 @@ Documentacion conexion de java, spriingboot y MySql:
 
 
 https://mysqlya.com.ar/tecnologia/conexion-mysql-spring-boot/
+
+
+Proyecto de referencia:
+
+https://github.com/bezkoder/spring-boot-login-example
