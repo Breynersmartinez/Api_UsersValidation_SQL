@@ -1,13 +1,13 @@
-package com.bezkoder.spring.login;
+package com.programandoenjava.jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootLoginExampleApplication {
+public class JwtApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootLoginExampleApplication.class, args);
+		SpringApplication.run(JwtApplication.class, args);
 	}
 
 }
